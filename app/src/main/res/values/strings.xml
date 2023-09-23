@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Swiggy</string>
+    <string name="food">Food</string>
+    <string name="app_namee">Swiggy</string>
 </resources>

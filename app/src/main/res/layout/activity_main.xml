@@ -70,7 +70,7 @@
                 android:id="@+id/view_home"
                 android:layout_width="match_parent"
                 android:visibility="gone"
-                android:layout_height="2sp"
+                android:layout_height="11sp"
                 android:background="@color/swiggy_orange">
             </View>
 
@@ -87,7 +87,7 @@
                 android:textColor="@color/grey"
                 android:textSize="12sp"
                 android:fontFamily="@font/swiggy_font_medium"
-                android:text="Swiggy">
+                android:text="@string/app_namee">
             </TextView>
 
 
@@ -119,9 +119,9 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/swiggy_font_medium"
-                android:text="Food"
+                android:text="@string/food"
                 android:textSize="12sp"
-                android:textColor="@color/grey"></TextView>
+                android:textColor="@color/grey" />
 
 
         </LinearLayout>
